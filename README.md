@@ -1,0 +1,1 @@
+Use clustering to investigate structure in the Dry Bean dataset. The dataset contains 13,611 samples and 16 numerical features describing bean size and shape. The goal is to discover and interpret groups based on these measurements.
