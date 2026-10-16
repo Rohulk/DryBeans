@@ -1,0 +1,5 @@
+method,space,silhouette,silhouette_in_standardized_space,stability_ARI_10_seeds,cluster_sizes
+KMeans,Standardized,0.3094,0.3094,0.9999,"[3157, 3111, 2480, 2033, 1769, 541, 520]"
+KMeans,Standardized+PCA(4),0.3277,0.3076,0.9971,"[3262, 3042, 2476, 2021, 1770, 521, 519]"
+GMM,Standardized,0.2898,0.2898,1.0,"[3191, 2836, 2514, 1984, 1873, 693, 520]"
+GMM,Standardized+PCA(4),0.302,0.2836,0.9974,"[3546, 2699, 2547, 1875, 1591, 831, 522]"

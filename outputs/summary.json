@@ -1,0 +1,28 @@
+{
+  "prep": {
+    "n_samples": 13611,
+    "n_features": 16,
+    "missing_values": 0,
+    "duplicate_feature_rows": 68,
+    "rows_with_any_abs_z_gt_4": 477
+  },
+  "pca": {
+    "n_components": 4,
+    "cumulative_explained_variance": [
+      0.5547,
+      0.819,
+      0.899,
+      0.9502,
+      0.9776,
+      0.9891
+    ]
+  },
+  "selected": {
+    "KMeans": "Standardized",
+    "GMM": "Standardized"
+  },
+  "final": [
+    "KMeans",
+    "Standardized"
+  ]
+}
